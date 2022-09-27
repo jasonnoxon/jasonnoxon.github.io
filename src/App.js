@@ -23,7 +23,7 @@ function App() {
         <Col>&nbsp;</Col>
         <Col sm={6}>
           <p>
-            <span className="bigger">Listen...</span>anyone can create a website with lots of flashy colors, animations, and images to tantilize and inspire. It takes a real <strong>genius</strong> to
+            <strong><span style={{ fontSize: "bigger" }}>Listen</span></strong>...anyone can create a website with lots of flashy colors, animations, and images to tantilize and inspire. It takes a real <strong>genius</strong> to
             create something stark and beautifully clean like the website you're looking at now. It also takes a real wack-job to try and and convince you that
             any of the above statement is true.
           </p>
@@ -40,7 +40,7 @@ function App() {
       </Row>
       <Row>
         <Col>&nbsp;</Col>
-        <Col>
+        <Col md={6} sm={12}>
           <MailChimp />
         </Col>
         <Col>&nbsp;</Col>
