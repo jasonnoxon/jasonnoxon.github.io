@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7f5bcd09.css",
-    "main.js": "/static/js/main.851ba96b.js",
+    "main.js": "/static/js/main.6406b6f5.js",
     "static/media/jason_noxon_round.png": "/static/media/jason_noxon_round.84d8060dbfaf4cd6ccda.png",
     "index.html": "/index.html",
     "main.7f5bcd09.css.map": "/static/css/main.7f5bcd09.css.map",
-    "main.851ba96b.js.map": "/static/js/main.851ba96b.js.map"
+    "main.6406b6f5.js.map": "/static/js/main.6406b6f5.js.map"
   },
   "entrypoints": [
     "static/css/main.7f5bcd09.css",
-    "static/js/main.851ba96b.js"
+    "static/js/main.6406b6f5.js"
   ]
 }
