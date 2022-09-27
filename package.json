@@ -16,7 +16,6 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "copy CNAME to ./build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
